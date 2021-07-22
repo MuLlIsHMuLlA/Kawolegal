@@ -1,0 +1,80 @@
+.header {
+    height: 130px;
+    width: 1200px;
+    border: 0;
+    position: fixed;
+    background-color: transparent;   
+}
+
+#log {
+    width: 200px;
+    height: 100px;
+}
+
+#links {
+   
+    margin-right: 5px;
+    margin-left: 5px;
+    
+}
+
+#lin:hover {
+    background-color:transparent;
+    color: #D14233;
+    border: 2px solid #D14233 ;
+}
+
+#bg-img {
+    height: 100vh;
+}
+
+#content {
+    color: white;
+    margin-bottom: 40px;
+}
+
+#headn-1 {
+    font-size: 80px;
+   
+}
+
+#headn-3 {
+    font-size: 40px;
+    }
+
+#btn-reg {
+    background-color: #31b0d5;
+    color: white;
+    border-color: #269abc;
+    border-radius: 5px;
+    padding: 10px 30px;
+    font-size: 25px;
+}
+
+.footer {
+    margin-top: 30px;
+    background-color: rgb(59, 12, 12);
+    color: white;
+}
+
+.left-footer {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.buttons {
+    position: relative;
+    padding: 20px;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+#foot-btns {
+text-decoration: none;
+display: inline;
+margin-right: 40px;
+}
+

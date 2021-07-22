@@ -1,0 +1,88 @@
+#header {
+    background-color: rgb(59, 12, 12);
+}
+
+#log {
+    width: 200px;
+    height: 80px;
+    margin-left: 100px;
+}
+
+#links {
+   
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.lin {
+    margin-right: 100px;    
+}
+
+#lin:hover {
+    background-color:transparent;
+    color: #D14233;
+    border: 2px solid #D14233 ;
+}
+
+h3 {
+    margin-left: 190px;
+    margin-bottom: 50px;
+}
+
+.e-size {
+    font-weight: bold;
+}
+
+.input-lenght {
+    width: 700px;
+    height: 34px;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    color: #555;
+}
+
+#row-shift {
+    margin-left: 180px;
+    margin-bottom: 20px;
+}
+
+#sign-up {
+    background-color: rgb(76, 76, 245);
+    color: white;
+    border-radius: 4px;
+    padding: 6px 12px;
+    font-weight: bold;
+}
+.sign-up {
+    margin-left: 180px;
+    margin-bottom: 150px;
+}
+
+.footer {
+    margin-top: 100px;
+    background-color:rgb(59, 12, 12);
+}
+
+.left-footer {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+}
+
+.buttons {
+    position: relative;
+    padding: 20px;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+#foot-btns {
+    text-decoration: none;
+    display: inline;
+    margin-right: 40px;
+    }
